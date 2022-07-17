@@ -12,6 +12,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 O desejo é a autodeterminação do poder duma pessoa pela imaginação dum fato futuro, que seria o efeito desse poder.
 
 ~Immanuel Kant
