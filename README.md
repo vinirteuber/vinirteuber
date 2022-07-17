@@ -17,4 +17,4 @@ O desejo é a autodeterminação do poder duma pessoa pela imaginação dum fato
 ~Immanuel Kant
 
 
-  ![Snake animation](https://github.com/vinirteuber/vinirteuber/blob/output/github-contribution-grid-snake.svg)
+ 
