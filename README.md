@@ -19,7 +19,7 @@ O desejo é a autodeterminação do poder duma pessoa pela imaginação dum fato
 
 <div>
   <a href="https://github.com/vinirteuber">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=vinirteuber&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinirteuber&layout=compact&langs_count=7&theme=react" />
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
