@@ -10,14 +10,11 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<br/>
-
+</div><br/>
 
 O desejo é a autodeterminação do poder duma pessoa pela imaginação dum fato futuro, que seria o efeito desse poder.
 
 ~Immanuel Kant
 
-![Snake animation](https://github.com/vinirteuber/vinirteuber/blob/output/github-contribution-grid-snake.svg)
 
- </div> 
-  
+  ![Snake animation](https://github.com/vinirteuber/vinirteuber/blob/output/github-contribution-grid-snake.svg)
