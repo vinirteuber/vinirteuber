@@ -19,12 +19,14 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" />
-</div>
-O desejo é a autodeterminação do poder duma pessoa pela imaginação dum fato futuro, que seria o efeito desse poder.
+  </div>
 
-~Immanuel Kant
 
+“Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.”
+
+~Bill Gates
 
  
