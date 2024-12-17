@@ -49,7 +49,7 @@
  
 
 
-“Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.”
+“Seu trabalho vai preencher grande parte da sua vida, e a única maneira de estar realmente satisfeito é fazer o que você acredita ser um ótimo trabalho.”
 
 ~Bill Gates
 
