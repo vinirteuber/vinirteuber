@@ -1,10 +1,6 @@
-## Olá! Eu sou o Vinicius Reis 🖐️
-<a href="https://github.com/vinirteuber">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinirteuber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinirteuber&layout=compact&langs_count=7&theme=tokyonight"/>
+### 💻 Full Stack Developer
 
-
-## Tecnologias que eu uso no meu dia
+I am a full stack developer trained as a Computer Technician by IFC Araquari. Passionate about technology and always exploring new tools, I have a greater emphasis on React and its ecosystem. I constantly seek to improve my skills and develop efficient, scalable and intuitive solutions.
 
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
@@ -18,7 +14,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="40" height="40" />
 
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" />
@@ -34,6 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"  width="40" height="40" />
   
     
           
@@ -46,11 +45,6 @@
  </div>
  <br/>
  
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600"> 
 
-
-“Seu trabalho vai preencher grande parte da sua vida, e a única maneira de estar realmente satisfeito é fazer o que você acredita ser um ótimo trabalho.”
-
-~Bill Gates
 
  
