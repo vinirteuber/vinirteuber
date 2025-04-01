@@ -5,7 +5,7 @@ I am a full stack developer trained as a Computer Technician by IFC Araquari. Pa
 <div>
 
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,express,scss,vue,py,tailwind,next,mysql,php,firebase)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,express,scss,vue,py,tailwind,next,mysql,php,firebase)](https://skillicons.dev)
 
   
     
