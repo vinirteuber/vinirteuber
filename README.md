@@ -7,18 +7,16 @@ I am a full stack developer trained as a Computer Technician by IFC Araquari. Pa
 
   [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,express,nodejs,vue,py,tailwind,next,mysql,php,docker,flutter,swift)](https://skillicons.dev)
 
-  
-    
-          
-
-
-
-  
-
  
  </div>
  <br/>
  
+```bash
+> whoami
+full stack developer
 
+> work --status
+🚀 Building Leilões do Brasil & Solanis.ai
 
+> echo "Innovation distinguishes between a leader and a follower."
  
