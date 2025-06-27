@@ -16,7 +16,7 @@ I am a full stack developer trained as a Computer Technician by IFC Araquari. Pa
 full stack developer
 
 > work --status
-🚀 Building Leilões do Brasil & Solanis.ai
+🚀 Building Leilões do Brasil & Solanis.ai & Keys Investimentos
 
 > echo "Innovation distinguishes between a leader and a follower."
  
